@@ -23,8 +23,8 @@ Backend API untuk sistem mood check-in harian. Dibangun menggunakan **Node.js**,
 
 1. Clone repository:
    ```bash
-   git clone [URL_REPOSITORY]
-   cd mood-checkin-api
+   git clone https://github.com/travian22/mood_api
+   cd mood_api
    ```
 
 2. Install dependencies:
